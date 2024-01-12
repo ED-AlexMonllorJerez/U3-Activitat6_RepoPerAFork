@@ -28,7 +28,7 @@ public class MissatgesNadalencs {
 		AlumneFila1PC5();
 
 		AlumneFila1PC6(){
-		System.out.println("alex os desea feliz año nuevo");
+System.out.println(
 }
 
 		// Fila2

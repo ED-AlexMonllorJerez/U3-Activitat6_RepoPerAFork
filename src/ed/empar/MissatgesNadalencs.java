@@ -25,11 +25,11 @@ public class MissatgesNadalencs {
 
 		AlumneFila1PC4();
 
-		AlumneFila1PC5();
-
-		AlumneFila1PC6(){
+		AlumneFila1PC5(){
 		System.out.println("alex os desea feliz año nuevo");
 }
+
+		AlumneFila1PC6();
 
 		// Fila2
 		AlumneFila2PC1();
